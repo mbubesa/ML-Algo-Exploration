@@ -1,6 +1,6 @@
 # ML-Algo-Exploration
 ## How to Contribute
----
+
 * Step 1: <b>Star this repo</b>  
 * Step 2: <b>Fork it</b>
 * Step 3: <b>Clone it</b>
