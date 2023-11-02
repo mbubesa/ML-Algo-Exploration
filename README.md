@@ -1,6 +1,6 @@
 # ML-Algo-Exploration  
 
-![img](ai.webp)
+![img](nnets.avif)
 ---
 ## Intro   
 </b>
