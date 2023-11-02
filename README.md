@@ -21,7 +21,7 @@ git clone https://github.com/mbubesa/ML-Algo-Exploration.git
 ```
 
 * Step 4: <b>Create your branch</b>  
-*Then *<br>
+*Then* <br>
 ```sh
 git checkout -b myname
 ```   
