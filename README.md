@@ -5,7 +5,7 @@
 ## Intro   
 </b>
 This is an open-source project established under Mbarara University Biomedical Engineering Association <b>(MBUBESA)</b> an association in Mbarara University of Science and Technology under the faculty of Applied Science and Technology.
-It is meant to equip those interested in learning Machine Learning algorithms for medicine. You don't have to be so good at programming to participate in this project otherwise there's also a python section for those that don't know how to program in python yet as it is the main language used for our machine learning programs. Please <b>*please*</b> check out the <b>*How to Contribute*</b> section inorder to contribute otherwise let's develope sustainable machine learning models for healthcare together.
+It is meant to equip those interested in learning Machine Learning algorithms for medicine. You don't have to be so good at programming to participate in this project otherwise there's also a python section for those that don't know how to program in python yet as it is the main language used for our machine learning programs. Please <b>please</b> check out the <b>How to Contribute</b> section inorder to contribute otherwise let's develope sustainable machine learning models for healthcare together.
 ---
 
 ## How to Contribute
