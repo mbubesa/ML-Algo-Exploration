@@ -1,5 +1,4 @@
-# ML-Algo-Exploration  
-Research, discover and build with us.   
+# ML-Algo-Exploration    
 ![img](nnets.avif)
 ---
 ## Intro   
