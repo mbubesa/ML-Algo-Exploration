@@ -1,6 +1,6 @@
 # ML-Algo-Exploration
 
-![NNets](nnets.avif)
+![NNets](https://images.squarespace-cdn.com/content/v1/5daddb33ee92bf44231c2fef/e163d977-3fe5-42da-b959-5b5319027458/machine-learning-in-healthcare.jpg)
 
 ## Description
 
