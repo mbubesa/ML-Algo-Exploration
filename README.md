@@ -15,7 +15,7 @@ We focus on:
 ## How to Contribute
 
 We welcome contributions from individuals at all skill levels. <br>
-Review how to make contributions to this project <a href="https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project">here.</a>
+- Review how to make contributions to this project <a href="https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project">here.</a>
 
 ### Review Process
 
