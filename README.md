@@ -1,6 +1,9 @@
 # ML-Algo-Exploration
 
-![NNets](nnets.avif)
+![NNets](https://images.squarespace-cdn.com/content/v1/5daddb33ee92bf44231c2fef/e163d977-3fe5-42da-b959-5b5319027458/machine-learning-in-healthcare.jpg)
+<!--Image source: https://www.foreseemed.com/blog/machine-learning-in-healthcare -->
+
+<!--![NNets](nnets.avif) -->
 
 ## Description
 
@@ -15,7 +18,7 @@ We focus on:
 ## How to Contribute
 
 We welcome contributions from individuals at all skill levels. <br>
-Review how to make contributions to this project <a href="https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project">here.</a>
+- Review how to make contributions to this project <a href="https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project">here.</a>
 
 ### Review Process
 
