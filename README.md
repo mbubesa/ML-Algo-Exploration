@@ -1,51 +1,49 @@
-# ML-Algo-Exploration    
-![img](nnets.avif)
----
-## Intro   
-</b>
-This is an open-source project established under Mbarara University Biomedical Engineering Association <b>(MBUBESA)</b> an association in Mbarara University of Science and Technology under the faculty of Applied Science and Technology.
-It is meant to equip those interested in learning Machine Learning algorithms for medicine. You don't have to be so good at programming to participate in this project otherwise there's also a python section for those that don't know how to program in python yet as it is the main language used for our machine learning programs. <b>Please</b> check out the <b>How to Contribute</b> section inorder to contribute otherwise let's develope sustainable machine learning models for healthcare together.   
+# ML-Algo-Exploration
+
+![NNets](nnets.avif)
+
+## Description
+
+The **ML-Algo-Exploration** project is an open-source initiative under the Mbarara University Biomedical Engineering Association (MBUBESA). This project provides a comprehensive platform with resources, tutorials, and community support to help users understand and implement machine learning models in the healthcare domain.
+> <b>Mission: </b> To empower individuals interested in learning machine learning algorithms for medical applications.<br>
+
+We focus on:
+- **Educational Advancement**: Providing resources and tutorials for learners at all levels.
+- **Practical Application**: Developing sustainable machine learning models for real-world medical challenges.
+- **Community Building**: Fostering collaboration among students, researchers, and professionals.
 
 ## How to Contribute
 
-* Step 1: <b>Star this repo</b>  
-![img1](star.png)   
+We welcome contributions from individuals at all skill levels. <br>
+Review how to make contributions to this project <a href="https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project">here.</a>
 
-* Step 2: <b>Fork it</b>  
-![img2](fork.png)  
+### Review Process
 
-* Step 3: <b>Clone it</b>   
-*Use the following on your terminal* <br>
-```sh
-git clone https://github.com/mbubesa/ML-Algo-Exploration.git
-```
+1. Your pull request will be reviewed by project maintainers.
+2. You may be asked to make additional changes or clarifications.
+3. Once your pull request is approved, it will be merged into the main repository.
 
-* Step 4: <b>Create your branch</b>  
-*Then* <br>
-```sh
-git checkout -b myname
-```   
+## Contribution Guidelines
 
-* Step 5: <b>Add you contribution</b>  
-*Write your contribution*  
+To ensure consistency and maintain the quality of the project, please follow these guidelines when contributing:
 
-* Step 6: <b>Make a pull request</b>   
-*First stage all your changes to your git*  
-```sh
-git add .
-```   
+- **Modularity**: Write modular and reusable code. Each function or class should perform a single, well-defined task.
+- **Documentation**: Properly document your code. Use docstrings to describe the purpose and usage of modules, classes, and functions. Follow the [PEP 8 style guide](https://pep8.org/) for coding and documentation.
+- **Unit Testing**: Include unit tests for your code. Tests should be placed in a `tests` subdirectory within the folder containing your code. Ensure your tests cover all critical functionality.
+- **Directory Structure**: Organize your code in a single folder per algorithm. Each folder should contain:
+  - The main code file(s).
+  - A `README.md` file explaining the algorithm and how to use it.
+  - A `tests` directory with unit tests.
+- **Code Review**: All code will be reviewed before being added to the main branch. Ensure your code is clean, well-documented, and thoroughly tested.
 
-*Commit all your changes with a good commit message*  
-```sh
-git commit -m "my commit message here"
-```   
-*Push all your changes to Github onto your forked repo*   
-```sh
-git push
-```    
+## Additional Information
 
-*create a pull request*   
-![img4](pull.png)  
+For more in-depth guidance and additional resources, please visit our project's repository. You may find the following resources helpful too;
+- Using Github: <a href="https://docs.github.com/en/get-started/start-your-journey">here</a>
+- Python Downloads: <a href="https://www.python.org/downloads/">here</a>
+- Python 3.x Documentation: <a href="https://docs.python.org/3/">here</a>
 
-*Congrats*, that's briefly what you have to do to contribute otherwise feel
-free to create issues where necessary and to ask where you need help. Happy hacking.
+> #### We're thrilled to welcome you to our community and eagerly anticipate your valuable contributions!
+
+## Conclusion
+- Let's create sustainable machine learning models for medical applications together.
