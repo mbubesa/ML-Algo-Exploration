@@ -3,8 +3,6 @@
 ![NNets](https://images.squarespace-cdn.com/content/v1/5daddb33ee92bf44231c2fef/e163d977-3fe5-42da-b959-5b5319027458/machine-learning-in-healthcare.jpg)
 <!--Image source: https://www.foreseemed.com/blog/machine-learning-in-healthcare -->
 
-<!--![NNets](nnets.avif) -->
-
 ## Description
 
 The **ML-Algo-Exploration** project is an open-source initiative under the Mbarara University Biomedical Engineering Association (MBUBESA). This project provides a comprehensive platform with resources, tutorials, and community support to help users understand and implement machine learning models in the healthcare domain.
