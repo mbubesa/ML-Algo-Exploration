@@ -868,10 +868,8 @@ def start_server():
 
     conn.close()
 
-### Example of a Simple Client
+# Example of a Simple Client
 
-**Example:**
-```python
 def start_client():
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     client_socket.connect(('localhost', 8080))
