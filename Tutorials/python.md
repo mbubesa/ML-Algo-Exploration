@@ -33,7 +33,7 @@ Python syntax is based on a philosophy best described by the <em>Zen of Python</
 ```markdown
 The Zen of Python, by Tim Peters
 
-Beautiful is better than ugly. <br>
+Beautiful is better than ugly. 
 Explicit is better than implicit. 
 Simple is better than complex. 
 Complex is better than complicated. 
