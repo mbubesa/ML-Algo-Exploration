@@ -39,7 +39,7 @@ To ensure consistency and maintain the quality of the project, please follow the
 
 ## Additional Information
 
-For more in-depth guidance and additional resources, please visit our project's repository. You may find the following resources helpful too;
+For more in-depth guidance and additional resources, please visit our `Resources` repository/sub-folder. <br>You may find the following resources helpful too;
 - Using Github: <a href="https://docs.github.com/en/get-started/start-your-journey">here</a>
 - Python Downloads: <a href="https://www.python.org/downloads/">here</a>
 - Python 3.x Documentation: <a href="https://docs.python.org/3/">here</a>
@@ -47,4 +47,4 @@ For more in-depth guidance and additional resources, please visit our project's 
 > #### We're thrilled to welcome you to our community and eagerly anticipate your valuable contributions!
 
 ## Conclusion
-- Let's create sustainable machine learning models for medical applications together.
+Let's create sustainable machine learning models for medical applications together.
