@@ -5,7 +5,7 @@
 
 ## Description
 
-The **ML-Algo-Exploration** project is an open-source initiative under the Mbarara University Biomedical Engineering Association (MBUBESA). This project provides a comprehensive platform with resources, tutorials, and community support to help users understand and implement machine learning models in the healthcare domain.
+The **ML-Algo-Exploration** project is an open-source initiative under the Mbarara University Biomedical Engineering Students Association (MBUBESA). This project provides a comprehensive platform with resources, tutorials, and community support to help users understand and implement machine learning models in the healthcare domain.
 > <b>Mission: </b> To empower individuals interested in learning machine learning algorithms for medical applications.<br>
 
 We focus on:
